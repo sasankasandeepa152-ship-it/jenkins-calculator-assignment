@@ -16,3 +16,5 @@ and Node.js.
 
 ```bash
 node src/index.js add 5 3
+
+Assignment status: Jenkins CI pipeline configured.
